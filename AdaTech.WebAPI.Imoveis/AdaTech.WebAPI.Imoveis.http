@@ -1,0 +1,6 @@
+@AdaTech.WebAPI.Imoveis_HostAddress = http://localhost:5107
+
+GET {{AdaTech.WebAPI.Imoveis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
